@@ -1,5 +1,6 @@
 ![Hye0nw0O's GitHub sstats](https://github-readme-stats.vercel.app/api?username=Hye0nw0O&show_icons=true&theme=dark)
-## Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thekiddd)](https://solved.ac/thekiddd)
+
 
 <!--
 **Hye0nw0O/Hye0nw0O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
