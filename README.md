@@ -1,5 +1,6 @@
+<div center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thekiddd)](https://solved.ac/thekiddd)
-
+</div>
 
 <!--
 **Hye0nw0O/Hye0nw0O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
