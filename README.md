@@ -1,4 +1,3 @@
-![Hye0nw0O's GitHub sstats](https://github-readme-stats.vercel.app/api?username=Hye0nw0O&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thekiddd)](https://solved.ac/thekiddd)
 
 
